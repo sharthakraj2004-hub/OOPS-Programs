@@ -41,7 +41,7 @@ public:
 int main() {
     Student s;
 
-    s.setRollNo(101);
+    s.setRollNo(474);
     s.display();
 
     return 0;
